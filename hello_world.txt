@@ -1,0 +1,1 @@
+I opened this file from the terminal and now i am going to stage it.
